@@ -1,0 +1,36 @@
+.Business {
+  width: 300px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.Business-information {
+  padding: 15px;
+}
+
+.Business-address p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.Business-details {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.Business-details p {
+  margin: 5px 0;
+}
+
+.rating {
+  color: #f39c12;
+}
